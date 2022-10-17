@@ -1,0 +1,19 @@
+{
+  "methods": {
+    "screenshot": {
+      "name": "Screenshot",
+      "returnType": "image",
+      "arguments": [
+        {
+          "type": "number",
+          "name": "Monitor Index",
+          "placeholder": "Index"
+        }
+      ]
+    },
+    "screens": {
+      "name": "Get all connected screens",
+      "arguments": []
+    }
+  }
+}
